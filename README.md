@@ -8,5 +8,6 @@ int main(void) {
 }
 ```
 
-Col_1 | Col_2
-A | B
+|Col_1|Col_2|Col_3|
+|-----|-----|-----|
+|A|B|C|
